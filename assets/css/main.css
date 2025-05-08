@@ -4088,10 +4088,11 @@ body.landing #projects-banner {
 #featured-projects-header {
     margin-bottom: 1rem; /* Adjust this to reduce spacing */
     padding-bottom: 0; /* Adjust as needed */
+	padding-top: 3em;
 }
 
 #featured-projects-tiles {
-    margin-bottom: 70px;
+    margin-bottom: 2em;
 	margin-top: 0px;
 	color: #ffffff
 }
@@ -4122,6 +4123,7 @@ body.landing #projects-banner {
 .tiles article h2 {
     color: #ffffff; /* Ensures white text for headers and paragraphs in tiles */
 	font-family: 'source-sans-pro-bold';
+	letter-spacing: 0.05em; /* or 0.075em */
 }
 
 .tiles article p {
