@@ -3050,6 +3050,7 @@
 			margin-bottom: 1.75em;
 			font-family: "Raleway-Medium";
 			font-weight: 800 !important;
+			letter-spacing: 0.1em; /* or 0.075em */
 		}
 
 		#banner input[type="submit"],
